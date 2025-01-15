@@ -1,6 +1,7 @@
 {
     "releases" : {
-        "0.8.28": "soljson-v0.8.28+commit.15081810.js"
+        "0.8.28.1": "soljson-v0.8.28+commit.15081810.js",
+        "0.8.28.2": "soljson-v0.8.28+commit.047a8403.js"
     },
     "latestRelease": "0.8.28"
 }
